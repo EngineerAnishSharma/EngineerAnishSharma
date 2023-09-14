@@ -3,7 +3,7 @@
 - 🎓 Second Year Information Technology Engineering student at D. J. Sanghvi College of Engineering.
 - 🔭 I’m currently working on App Development and Web Development.
 - 🌱 I’m currently learning Backened Web Development.
-- 👯 I’m looking to collaborate on Android, Flutter and Web Projects.
+- 👯 I’m looking to collaborate on Android, Flutter, AI ML and Web Projects.
 - 📫 How to reach me engineeranish10000@gmail.com
 
 <!---
