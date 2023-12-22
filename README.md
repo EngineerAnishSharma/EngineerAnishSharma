@@ -6,7 +6,7 @@ Passionate App Developer from India, currently exploring the realms of App, Web,
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/engineer-anish)
 - [Instagram](https://instagram.com/anish.sharma30)
-- [Dev.to](https://dev.to/anishsharma)
+- [[Dev.to](https://dev.to/anishsharma)](https://devfolio.co/@anishsharma)
 
 ## 🚀 Skills and Technologies
 - Android | Bootstrap | C | C++ | CSS3 | Dart | Django | Express | Firebase | Flutter | Git | HTML5 | Java | JavaScript | MongoDB | MySQL | Node.js | Python | React | and more...
