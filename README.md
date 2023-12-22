@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **App, Web and VR Development**
 
-- 👯 I’m looking to collaborate on **Tech projects**
+- 👯 I’m looking to collaborate on **Tech and Fun projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EngineerAnishSharma/](https://github.com/EngineerAnishSharma/)
 
