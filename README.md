@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EngineerAnishSharma/](https://github.com/EngineerAnishSharma/)
 
-- 💬 Ask me about **Mobile Application Development and Programming languages**
+- 💬 Ask me about **Mobile Application Development, MERN and Programming languages**
 
 - 📫 How to reach me **engineeranish10000@gmail.com**
 - 🛌 I am comfortable with **C, Python, C++, Java, Dart and Javascript.**
