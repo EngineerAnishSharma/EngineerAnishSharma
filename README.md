@@ -4,7 +4,7 @@
 <h3 align="center">Second year Information Technology student from DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING</h3>
 
 
-- 🔭 I’m currently working on **App, Web and VR Development**
+- 🔭 I’m currently working on **App, Web Development and ML**
 
 - 👯 I’m looking to collaborate on **Tech and Fun projects**
 
