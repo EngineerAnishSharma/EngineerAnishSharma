@@ -1,3 +1,4 @@
+![image title](https://rushter.com/counter.svg)
 
 <h1 align="center">Hi 👋, I'm Anish Sharma</h1>
 
