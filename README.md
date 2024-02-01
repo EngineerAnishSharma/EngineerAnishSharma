@@ -1,4 +1,4 @@
-![image title](https://rushter.com/counter.svg)
+![GitHub Views](https://komarev.com/ghpvc/?username=EngineerAnishSharma)
 
 <h1 align="center">Hi 👋, I'm Anish Sharma</h1>
 
