@@ -2,27 +2,24 @@
 
 <h1 align="center">Hi 👋, I'm Anish Sharma</h1>
 
-<h3 align="center">Third year Information Technology student from DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING</h3>
+<h3 align="center">Third-Year Information Technology Student | Aspiring Software Engineer | Tech Enthusiast</h3>
 
-
-- 🔭 I’m currently working on **App, Web Development and ML**
-
-- 👯 I’m looking to collaborate on **Tech and Fun projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/EngineerAnishSharma/](https://github.com/EngineerAnishSharma/)
-
-- 💬 Ask me about **Mobile Application Development, MERN, ML and Programming languages**
-
-- 📫 How to reach me **engineeranish10000@gmail.com**
-- 🛌 I am comfortable with **C, Python, C++, Java, Dart and Javascript.**
-
+### 🎯 Achievements:
+- 🏆 **Winner**, Smart India Hackathon 2023 – Built a speech sound disorder intervention app.
+- 🎓 Selected for **Amazon ML Summer School 2024**, an intensive program on advanced machine learning concepts.
+- 🌟 **Top 10 Finalist**, DJSCE Codeshastra 2024 and CSI SPIT Hackathon 2024.
+- 🌟 **Top 10 Finalist**, DJSCE Code Bounty 2024 and SemiCode coding competition 2024.  
+- 💻 **Hacktoberfest Contributor**, with 7 pull requests accepted on GitHub.
+- 🎖️ **Sincere Youth Award**, Atmiya Youth Group.
+- 🎓 Completed **ISRO's Geodata Processing with Python Training**.
+- ⭐ **5-Star** Ratings on Hackerrank in Python, Java, and C; **2-Star** on CodeChef.   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://devfolio.co/@anishsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devfolio.co/@anishsharma" height="30" width="80" /></a>
 <a href="https://linkedin.com/in/engineer-anish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engineer-anish" height="30" width="80" /></a>
 <a href="https://instagram.com/anish.sharma30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anish.sharma30" height="30" width="80" /></a>
-<a href="https://www.codechef.com/users/engineeranish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="engineeranish" height="30" width="80" /></a>
+<a href="https://www.codechef.com/users/anishsharma30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="engineeranish" height="30" width="80" /></a>
 <a href="https://www.hackerrank.com/engineeranish101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="engineeranish101" height="30" width="80" /></a>
 <a href="https://www.leetcode.com/engineeranish10000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="engineeranish10000" height="30" width="80" /></a>
 </p>
