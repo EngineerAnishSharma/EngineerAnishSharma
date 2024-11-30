@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anish Sharma</h1>
 
-<h3 align="center">Second year Information Technology student from DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING</h3>
+<h3 align="center">Third year Information Technology student from DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING</h3>
 
 
 - 🔭 I’m currently working on **App, Web Development and ML**
