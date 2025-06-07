@@ -5,6 +5,7 @@
 <h3 align="center">Third-Year Information Technology Student | Aspiring Software Engineer | Tech Enthusiast</h3>
 
 ### 🎯 Achievements:
+- 🏆 **Winner**, National Level Space Hackathon organized by ISRO x IIT Delhi.
 - 🏆 **Winner**, Smart India Hackathon 2024 – Developed a tool to redact the sensitive information.
 - 🏆 **Winner**, Smart India Hackathon 2023 – Built a speech sound disorder intervention app.
 - 🎓 Selected for **Amazon ML Summer School 2024**, an intensive program on advanced machine learning concepts.
