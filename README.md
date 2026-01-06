@@ -26,9 +26,5 @@ I have gained diverse industry exposure through internships at a **leading MNC**
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineeranishsharma&show_icons=true&locale=en&layout=compact" alt="engineeranishsharma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engineeranishsharma&show_icons=true&locale=en" alt="engineeranishsharma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engineeranishsharma&" alt="engineeranishsharma" /></p>
 
